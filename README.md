@@ -24,3 +24,5 @@
 ![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack)
 ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=apat2010&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
