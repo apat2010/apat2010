@@ -1,10 +1,10 @@
-![Logo](/banner/banner.png)
+![Logo](/banner.png)
 
 ### A former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer. Aspiring to join the startup world and start making ripples
 
 ### Contact:
 
-[![Linkedin Badge](https://img.shields.io/badge/-juanoxmar-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/anthony-patterson14/)](https://www.linkedin.com/in/anthony-patterson14/)
+[![Linkedin Badge](https://img.shields.io/badge/-anthonypatterson14-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/anthony-patterson14/)](https://www.linkedin.com/in/anthony-patterson14/)
 [![Gmail Badge](https://img.shields.io/badge/-pattersonanthony14@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:pattersonanthony14@gmail.com)](mailto:pattersonanthony14@gmail.com)
 
 ### Technologies:
