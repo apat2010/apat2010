@@ -2,6 +2,15 @@
 
 ### A former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer. Aspiring to join the startup world and start making ripples
 
+### Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
+
+
+### Picture Palooza
+
+### Bookington Palace
+
+### WuufPak
+
 ### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anthonypatterson14-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/anthony-patterson14/)](https://www.linkedin.com/in/anthony-patterson14/)
