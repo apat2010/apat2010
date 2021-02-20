@@ -1,4 +1,4 @@
-![Logo](/banner.png)
+
 
 ### A former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer. Aspiring to join the startup world and start making ripples
 
