@@ -1,6 +1,6 @@
 <h1> Hi! My name is Anthony!
- <p> I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer.
-  </br> I'm recently moved to Seattle, WA and I am eager to join the startup world and start making ripples </p>
+ - I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer.
+ - I'm recently moved to Seattle, WA and I am eager to join the startup world and start making ripples </p>
 
 ### Technologies:
 
