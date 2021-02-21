@@ -1,24 +1,40 @@
-<h1> Hi! My name is Anthony!
- - I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer.
- - I'm recently moved to Seattle, WA and I am eager to join the startup world and start making ripples </p>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer.
+ I'm recently moved to Seattle, WA and I am eager to join the startup world and start making ripples
+
+<a href="https://twitter.com/apatterson2010">
+  <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/anthony-patterson14/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 ### Technologies:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=336791)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest&logoColor=C21325)
-![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack)
-![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+<p>
+
+  Languages
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  Front End
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+
+  Backend
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+  Deployment/Testing
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+
+  Tools
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+
+</p>
+
+  <img align="right" alt="GIF" src="https://github.com/apat2010/apat2010/code.gif?raw=true" width="500" height="320" />
+
 
 - Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
 
@@ -28,9 +44,7 @@
 
 ### Bookington Palace
 [Repository](https://github.com/thefabfour/BookingtonPalace)
-- Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server. I created the "Reviews" component in this Service Oriented Architecture. If you want to hear more details, I have a quick demo in the following link! [demo](https://youtu.be/5m8Xug6EbPI)
-
-![](BookingtonPdemo.gif)
+- Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server.
 
 ### WuufPak
 
@@ -41,4 +55,4 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=apat2010&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apat2010&show_icons=true&theme=gotham" alt="apat2010" />
