@@ -1,14 +1,14 @@
 
 
-### A former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer. Aspiring to join the startup world and start making ripples
+- A former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer. Aspiring to join the startup world and start making ripples
 
-### Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
+- Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
 
 
 ### Picture Palooza
 
-- [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
-### Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server. I created the "Reviews" component in this Service Oriented Architecture. If you want to hear more details, I have a quick demo in the following link! https://youtu.be/jO8IkGyULGc
+[Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
+- Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server. I created the "Reviews" component in this Service Oriented Architecture. If you want to hear more details, I have a quick demo in the following link! https://youtu.be/jO8IkGyULGc
 
 ![](BookingtonPdemo.gif)
 
