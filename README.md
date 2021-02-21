@@ -9,6 +9,8 @@
 
 ### Bookington Palace
 
+![](BookingtonPdemo.gif)
+
 ### WuufPak
 
 ### Contact:
