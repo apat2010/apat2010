@@ -58,16 +58,16 @@ Languages
 </p>
 
 
-
-- Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
-
-
-### Picture Palooza
-
+Take a look at two projects I recently completed!
 
 ### [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
-- Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server.
+- This project I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server!
 
+### [Picture Palooza](https://github.com/TripstersSDC/AirBnB-Booking-Service)
+- Picture Palooza was a deep dive into backend operations. Here I recreated the backend of an existing codebase for a booking website from a locally constructed, NoSQL database to a PostgreSQL database deployed to AWS (horizontally scaled & with an NGINX Load Balancer) capable of handling over 100K visits per minute (with < 1% error rate and under 6ms response/sec).
+
+
+Feel free to explore a project I am currently working on!
 ### WuufPak
 
 
