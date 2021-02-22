@@ -75,5 +75,6 @@ Languages
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apat2010)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=apat2010&show_icons=true&theme=gotham" alt="apat2010" />
