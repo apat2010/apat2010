@@ -3,12 +3,12 @@
  I'm recently moved to Seattle, WA and I am eager to join the startup world and start making ripples
 
 <a href="https://twitter.com/apatterson2010">
-  <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anthony-patterson14/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/linkedin.svg" />
 </a>
-
+[![Gmail Badge](https://img.shields.io/badge/-pattersonanthony14@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:pattersonanthony14@gmail.com)](mailto:pattersonanthony14@gmail.com)
 </br>
 
 
@@ -45,7 +45,7 @@ Languages
 
 </p>
 
-  <img align="right" alt="GIF" src="https://github.com/apat2010/apat2010/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/code.gif?raw=true" width="500" height="320" />
 
 
 - Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
@@ -60,8 +60,6 @@ Languages
 
 ### WuufPak
 
-[![Linkedin Badge](https://img.shields.io/badge/-anthonypatterson14-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/anthony-patterson14/)](https://www.linkedin.com/in/anthony-patterson14/)
-[![Gmail Badge](https://img.shields.io/badge/-pattersonanthony14@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:pattersonanthony14@gmail.com)](mailto:pattersonanthony14@gmail.com)
 
 
 
