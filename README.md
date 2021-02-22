@@ -64,7 +64,7 @@ Languages
 ### [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
 - This project I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server!
 
-### [Picture Palooza](https://github.com/TripstersSDC/AirBnB-Booking-Service)
+### [Picture Palooza](https://github.com/TripstersSDC/PicturePalooza)
 - Picture Palooza was a deep dive into backend operations. Here I recreated the backend of an existing codebase for a booking website from a locally constructed, NoSQL database to a PostgreSQL database deployed to AWS (horizontally scaled & with an NGINX Load Balancer) capable of handling over 100K visits per minute (with < 1% error rate and under 6ms response/sec).
 
 
