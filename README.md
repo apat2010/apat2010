@@ -18,6 +18,7 @@
 
 <p>
 
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/code.gif?raw=true" width="500" height="320" />
 Languages
   </br>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -56,7 +57,6 @@ Languages
 
 </p>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/code.gif?raw=true" width="500" height="320" />
 
 
 - Please take a look at the projects I've been up to lately. Below are some quick demos and linked videos....enjoy!
