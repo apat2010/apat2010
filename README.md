@@ -23,7 +23,6 @@ Languages
   </br>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript"/>
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=css3&logoColor=1572B6" />
  </br>
 
   Front End
@@ -44,7 +43,7 @@ Languages
   Deployment/Testing
   </br>
   <img alt="CircleCi" src= "https://img.shields.io/badge/-CircleCI-gray?style=flat-square&logo=CircleCI"/>
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-gray?style=flat-square&logo=Jest&logoColor=C21325"/>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=Jest&logoColor=C21325"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   </br>
