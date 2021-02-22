@@ -6,7 +6,7 @@
   <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anthony-patterson14/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
 </a>
 
 </br>
@@ -59,8 +59,6 @@ Languages
 - Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server.
 
 ### WuufPak
-
-### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anthonypatterson14-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/anthony-patterson14/)](https://www.linkedin.com/in/anthony-patterson14/)
 [![Gmail Badge](https://img.shields.io/badge/-pattersonanthony14@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:pattersonanthony14@gmail.com)](mailto:pattersonanthony14@gmail.com)
