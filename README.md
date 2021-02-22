@@ -58,7 +58,7 @@ Languages
 </p>
 
 
-Take a look at two projects I recently completed!
+<h2> Take a look at two projects I recently completed! </h2>
 
 ### [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
 - This project I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server!
