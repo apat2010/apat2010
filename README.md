@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/linkedin.svg" />
 </a>
 
-[![Gmail Badge](https://img.shields.io/badge/-pattersonanthony14@gmail.com-black?style=flat-square&logo=Gmail&link=mailto:pattersonanthony14@gmail.com)](mailto:pattersonanthony14@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pattersonanthony14@gmail.com-white?style=flat-square&logo=Gmail&link=mailto:pattersonanthony14@gmail.com)](mailto:pattersonanthony14@gmail.com)
 
 </br>
 
