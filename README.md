@@ -65,8 +65,7 @@ Languages
 ### Picture Palooza
 
 
-### Bookington Palace
-[Repository](https://github.com/thefabfour/BookingtonPalace)
+### [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
 - Here I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server.
 
 ### WuufPak
