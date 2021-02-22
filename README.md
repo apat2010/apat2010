@@ -37,7 +37,7 @@ Languages
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-gray?style=flat-square&logo=Express"/>
   <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-gray?style=flat-square&logo=NGINX"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=336791" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   </br>
 
