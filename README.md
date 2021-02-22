@@ -74,5 +74,5 @@ Languages
 - Utilizing Material UI, Google Maps Location services, and React, this social network project is currently in the web application phase and will eventually become a mobile app on React Native as well!
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apat2010" alt="apat2010" />
+
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=apat2010&show_icons=true&theme=gotham" alt="apat2010" />
