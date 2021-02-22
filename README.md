@@ -75,4 +75,4 @@ Languages
 
 
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=apat2010&show_icons=true&theme=gotham" alt="apat2010" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apat2010&show_icons=true&theme=gotham" alt="apat2010" />
