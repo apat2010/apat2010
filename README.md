@@ -58,6 +58,7 @@ Languages
 </p>
 
 
+</br>
 <h2> Take a look at two projects I recently completed! </h2>
 
 ### [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
@@ -67,7 +68,7 @@ Languages
 - Picture Palooza was a deep dive into backend operations. Here I recreated the backend of an existing codebase for a booking website from a locally constructed, NoSQL database to a PostgreSQL database deployed to AWS (horizontally scaled & with an NGINX Load Balancer) capable of handling over 100K visits per minute (with < 1% error rate and under 6ms response/sec).
 
 
-Feel free to explore a project I am currently working on!
+<h2> Feel free to explore a project I am currently working on! </h2>
 ### WuufPak
 
 
