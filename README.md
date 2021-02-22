@@ -69,7 +69,8 @@ Languages
 
 
 <h2> Feel free to explore a project I am currently working on! </h2>
-### [WuufPak] (https://github.com/apat2010/WuufPak)
+
+### [WuufPak](https://github.com/apat2010/WuufPak)
 
 
 
