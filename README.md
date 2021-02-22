@@ -21,9 +21,9 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/code.gif?raw=true" width="500" height="320" />
 Languages
   </br>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript"/>
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" />
+ <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=css3&logoColor=1572B6" />
  </br>
 
   Front End
@@ -35,16 +35,16 @@ Languages
   Backend
   </br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express"/>
-  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=NGINX"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=336791" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-gray?style=flat-square&logo=Express"/>
+  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-gray?style=flat-square&logo=NGINX"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql&logoColor=336791" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   </br>
 
   Deployment/Testing
   </br>
-  <img alt="CircleCi" src= "https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI"/>
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest&logoColor=C21325"/>
+  <img alt="CircleCi" src= "https://img.shields.io/badge/-CircleCI-gray?style=flat-square&logo=CircleCI"/>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-gray?style=flat-square&logo=Jest&logoColor=C21325"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   </br>
