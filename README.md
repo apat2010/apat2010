@@ -42,6 +42,7 @@ Languages
 
   Tools
   </br>
+   <img alt="webpack" src="https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
