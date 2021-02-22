@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer.
- I'm recently moved to Seattle, WA and I am eager to join the startup world and start making ripples
+ I recently moved to Seattle, WA and I am eager to join the startup world and start making ripples
 
 <a href="https://twitter.com/apatterson2010">
   <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/twitter.svg" />
@@ -71,6 +71,8 @@ Languages
 <h2> Feel free to explore a project I am currently working on! </h2>
 
 ### [WuufPak](https://github.com/apat2010/WuufPak)
+- Have you ever met a doggo at the park that just meshes with your own pet? Despite efforts, the majority of the time dog's only see their friends by circumstance. WuufPak is here to change that. As a social media site built to bring pets together, it will inevitably also bring humans together. 
+- Utilizing Material UI, Google Maps Location services, and React, this social network project is currently in the web application phase and will eventually become a mobile app on React Native as well!
 
 
 
