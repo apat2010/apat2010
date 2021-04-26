@@ -69,7 +69,7 @@ Languages
 
 <h2> Feel free to explore a few projects I am currently working on! </h2>
 
-### [Endlessvc] (https://github.com/apat/PersonalSite)
+### [Endlessvc](https://github.com/apat/PersonalSite)
 - This is the site for my private practice LLC, including with my personal portfolio.
 
 ### [WuufPak](https://github.com/apat2010/WuufPak)
