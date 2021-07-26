@@ -78,6 +78,7 @@ Languages
 
 ### [Endlessvc.com](https://github.com/apat2010/PersonalSite)
 - This is the site for my private practice LLC, including with my personal portfolio.
+- I've actually had a really fun time learning how to manage DNS settings, deploying applications to a custom domain, and integrating modern tools like Twilio's sendGrid to engage with site visitors.
 
 ### [WuufPak](https://github.com/apat2010/WuufPak)
 - Have you ever met a doggo at the park that just meshes with your own pet? Despite efforts, the majority of the time dog's only see their friends by circumstance. WuufPak is here to change that. As a social media site built to bring pets together, it will inevitably also bring humans together. 
