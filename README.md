@@ -31,7 +31,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/code.gif?raw=true" width="500" height="320" />
 Languages
   </br>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript"/>
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  </br>
@@ -39,6 +39,7 @@ Languages
   Front End
   </br>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="VueJs" src="https://img.shields.io/badge/-VueJs-green?style=flat-square&logo=vuejs"/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   </br>
 
