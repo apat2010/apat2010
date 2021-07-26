@@ -10,7 +10,9 @@
  If you are looking at my activity and thinking "Software Engineer? Where are the commits & activity????", here is important information to share.
  1. During my internship with VIZIO, I have been committing to the following GH account https://github.com/anthonypatterson-vizio. 
 
- 2. I taught at Hack Reactor from late March to early June. As I applied to roles and taught during the spring, my GH commits became less frequent BUT I can promise that I was working with full stack JavaScript principles 6 days a week, teaching Object Oriented Programming, API Calls, Callback Patterns, Promises, Instanciation patterns, etc, etc, etc and this work ABSOLUTELY increased my capabalities as a software engineer.
+ 2. I taught at Hack Reactor from late March to early June. During this time, my GH commits became less frequent BUT I can promise that I was working with full stack JavaScript principles 6 days a week, teaching Object Oriented Programming, API Calls, Callback Patterns, Promises, Instanciation patterns, etc, etc, etc and this work ABSOLUTELY increased my capabalities as a software engineer.
+
+3. Lastly, I have been working as a PM for a well known tech founder in the Bay Area on projects related to create infrasture for businesses related to the legal and incentive governance strucutre for decentralized autonomous organizations (Mar - Jul).
 
 <a href="https://twitter.com/apatterson2010">
   <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/twitter.svg" />
