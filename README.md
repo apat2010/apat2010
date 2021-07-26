@@ -3,6 +3,7 @@
  I recently moved to Seattle, WA and I am eager to join a fun, collaborative team. I am targetting FT roles as a Front End or Full Stack Software engineer at small(under 100 employees) to mid size (1000+) technology companies. 
  
  ### [Private Practice Website](http://www.endlessvc.com)
+ Personal website used for my portfolio and coordination for contract coordination.
  
  ### Very Important 
  
