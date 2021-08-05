@@ -8,7 +8,7 @@
  ### Very Important 
  
  If you are looking at my activity and thinking "Software Engineer? Where are the commits & activity????", here is important information to share.
- 1. During my internship with VIZIO, I have been committing to the following GH account https://github.com/anthonypatterson-vizio. 
+ 1. During my internship with VIZIO, I have been committing to the following GH account https://github.com/anthonypatterson-vizio. Some commits are shown but some activity is not visible on more secure repositories
 
  2. I taught at Hack Reactor from late March to early June. During this time, my GH commits became less frequent BUT I can promise that I was working with full stack JavaScript principles 6 days a week, teaching Object Oriented Programming, API Calls, Callback Patterns, Promises, Instanciation patterns, etc, etc, etc and this work ABSOLUTELY increased my capabalities as a software engineer.
 
