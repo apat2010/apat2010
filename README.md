@@ -87,9 +87,12 @@ Languages
 - This is the site for my private practice LLC, including with my personal portfolio.
 - I've actually had a really fun time learning how to manage DNS settings, deploying applications to a custom domain, and integrating modern tools like Twilio's sendGrid to engage with site visitors.
 
+### [DogHouse](https://github.com/StealthDogHouse/Dog-House)
+- This project is a revamp of WuufPak. I am integrating TypeScript, GraphQL, and utilizing both a SQL & NoSQL database to handle the customer data. 
+
 ### [WuufPak](https://github.com/apat2010/WuufPak)
 - Have you ever met a doggo at the park that just meshes with your own pet? Despite efforts, the majority of the time dog's only see their friends by circumstance. WuufPak is here to change that. As a social media site built to bring pets together, it will inevitably also bring humans together. 
-- Utilizing Material UI, Google Maps Location services, and React, this social network project is currently in the web application phase and will eventually become a mobile app on React Native as well!
+- Utilizing Material UI, Google Maps Location services, and React, this social network project is currently in the web application phase.
 
 
 
