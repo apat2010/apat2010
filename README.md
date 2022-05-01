@@ -1,18 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer.
- I recently moved to Seattle, WA and I am eager to join a fun, collaborative team. I am targetting FT roles as a Front End or Full Stack Software engineer at small(under 100 employees) to mid size (1000+) technology companies. 
- 
- ### [Private Practice Website](http://www.endlessvc.com)
- Personal website used for my portfolio and coordination for contract coordination.
- 
- ### Very Important 
- 
- If you are looking at my activity and thinking "Software Engineer? Where are the commits & activity????", here is important information to share.
- 1. During my internship with VIZIO, I have been committing to the following GH account https://github.com/anthonypatterson-vizio. Some commits are shown but some activity is not visible on more secure repositories
-
- 2. I taught at Hack Reactor from late March to early June. During this time, my GH commits became less frequent BUT I can promise that I was working with full stack JavaScript principles 6 days a week, teaching Object Oriented Programming, API Calls, Callback Patterns, Promises, Instanciation patterns, etc, etc, etc and this work ABSOLUTELY increased my capabalities as a software engineer.
-
-3. Lastly, I have been working as a PM for a well known tech founder in the Bay Area on projects related to create infrasture for businesses related to the legal and incentive governance strucutre for decentralized autonomous organizations (Mar - Jul).
+ I am former Marine Corps Infantry Officer and Mechanical Engineer turned software engineer. 
 
 <a href="https://twitter.com/apatterson2010">
   <img align="left" alt="Anthony Patterson | Twitter" width="22px" src="https://raw.githubusercontent.com/apat2010/apat2010/master/assets/twitter.svg" />
