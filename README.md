@@ -59,27 +59,7 @@ Languages
 
 
 </br>
-<h2> Take a look at two projects I recently completed! </h2>
 
-### [Bookington Palace](https://github.com/thefabfour/BookingtonPalace)
-- This project I worked with a team of two other engineers to recreate a mock Airbnb site using a MERN stack, deployed to AWS with Docker/DockerHub, and integrated through a self made, Node.js reverse proxy server!
-
-### [Picture Palooza](https://github.com/TripstersSDC/PicturePalooza)
-- Picture Palooza was a deep dive into backend operations. Here I recreated the backend of an existing codebase for a booking website from a locally constructed, NoSQL database to a PostgreSQL database deployed to AWS (horizontally scaled & with an NGINX Load Balancer) capable of handling over 100K visits per minute (with < 1% error rate and under 6ms response/sec).
-
-
-<h2> Feel free to explore a few projects I am currently working on! </h2>
-
-### [Endlessvc.com](https://github.com/apat2010/PersonalSite)
-- This is the site for my private practice LLC, including with my personal portfolio.
-- I've actually had a really fun time learning how to manage DNS settings, deploying applications to a custom domain, and integrating modern tools like Twilio's sendGrid to engage with site visitors.
-
-### [DogHouse](https://github.com/StealthDogHouse/Dog-House)
-- This project is a revamp of WuufPak. I am integrating TypeScript, GraphQL, and utilizing both a SQL & NoSQL database to handle the customer data. 
-
-### [WuufPak](https://github.com/apat2010/WuufPak)
-- Have you ever met a doggo at the park that just meshes with your own pet? Despite efforts, the majority of the time dog's only see their friends by circumstance. WuufPak is here to change that. As a social media site built to bring pets together, it will inevitably also bring humans together. 
-- Utilizing Material UI, Google Maps Location services, and React, this social network project is currently in the web application phase.
 
 
 
